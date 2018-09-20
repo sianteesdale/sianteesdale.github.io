@@ -16,11 +16,8 @@ I stayed in Southport until 2015 when I decided to become a student at the [Univ
 - Laboratory work
 - Collecting data and analysis in field
 
-This resulted in me achieving a **First** class degree
-
 For more information about my third year dissertation project, go to my [dissertation page](dissertation.md).
 
+#### The grades I received over second and third year resulted in me achieving a **First** class degree!
 
-I am a student at 
-
-, where I am doing an integrated master/PhD course in Data Analytics and Society.
+Now, I am a postgraduate student at the University of Liverpool where I am doing an integrated master/PhD course in Data Analytics and Society in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/).
