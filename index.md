@@ -17,6 +17,10 @@ I stayed in Southport until 2015 when I decided to become a student at the [Univ
 - Collecting data and analysis in field
 
 This resulted in me achieving a **First** class degree
+
+For more information about my third year dissertation project, go to my [dissertation page](dissertation.md).
+
+
 I am a student at 
 
 , where I am doing an integrated master/PhD course in Data Analytics and Society.
