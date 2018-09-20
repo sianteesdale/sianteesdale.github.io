@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/sianteesdale/sianteesdale.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I was born in 1997 in Dorchester, Dorset. At the time my dad was in the [1st The Queen's Dragoon Guards](http://www.qdg.org.uk/) regiment, therefore we moved around a lot when I was a baby. I lived in Bovington Camp, before moving to Wolfenbuttel (Germany), Catterick (Yorkshire) before my family settled down in Southport, Merseyside, in 1999. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+I went to my local primary school (Norwood Primary School) in Southport from 2001 to 2008, before moving to **Greenbank High School** (2008-2013) where I achieved A and B grades across 10 GCSEs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For further education I studied at [King George V College](https://www.kgv.ac.uk/), Southport. For my A-Levels I achieved:
+1. Biology - B
+2. Geography - A*
+3. Psychology - C
 
-```markdown
-Syntax highlighted code block
+I stayed in Southport until 2015 when I decided to become a student at the [University of Liverpool](https://www.liverpool.ac.uk/) studying [BSc Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/). Over the next 3 years I built up my skills in:
+- Written and verbal communication
+- Laboratory work
+- Collecting data and analysis in field
 
-# Header 1
-## Header 2
-### Header 3
+This resulted in me achieving a **First** class degree
+I am a student at 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sianteesdale/sianteesdale.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+, where I am doing an integrated master/PhD course in Data Analytics and Society.
