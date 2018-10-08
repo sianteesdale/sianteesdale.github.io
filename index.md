@@ -21,3 +21,5 @@ For more information about my third year dissertation project, go to my [dissert
 #### The grades I received over second and third year resulted in me achieving a **First** class degree!
 
 Now, I am a postgraduate student at the University of Liverpool where I am doing an integrated master/PhD course in Data Analytics and Society in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/).
+
+For one of my assignments, I have created an Agents Based Model (ABM) which shows agents interacting with neighbours and the environment... to see this click [here](agents.md).
