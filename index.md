@@ -1,6 +1,6 @@
 ## About me
 
-Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool! :)
+Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool! 😊
 
 ## Education
 
