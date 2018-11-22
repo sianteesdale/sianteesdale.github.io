@@ -11,7 +11,7 @@ For further education I studied at [King George V College](https://www.kgv.ac.uk
 2. Geography - A*
 3. Psychology - C
 
-I stayed in Southport until 2015 when I decided to become a student at the [University of Liverpool](https://www.liverpool.ac.uk/) studying [BSc Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/). Over the next 3 years I built up my skills in:
+My A-Level choices resulted in me becoming a student at the [University of Liverpool](https://www.liverpool.ac.uk/) studying [BSc Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/). Over the next 3 years I built up my skills in:
 - Written and verbal communication
 - Laboratory work
 - Collecting data and analysis in field
