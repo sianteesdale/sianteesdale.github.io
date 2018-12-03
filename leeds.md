@@ -9,7 +9,7 @@ Within the ABM, the following variables can be altered as required:
 - neighbourhood     (how close the agents can be together)
 
 <p align="center">
-  <img width="800" height="800" src="Figure_1-3.png">
+  <img width="800" height="800" src="Figure_1-1.png">
 </p>
 
 The ABM displays a number next to each agent; this number represents the agents current store of food (i.e. grass). 
