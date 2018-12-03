@@ -2,6 +2,10 @@
 
 Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool! 😊
 
+<p align="center">
+  <img width="200" height="200" src="Github pic.jpg">
+</p>
+
 ## Education
 
 For my high school education I went to **Greenbank High School** (2008-2013) where I achieved A and B grades across 10 GCSEs.
