@@ -29,3 +29,8 @@ Now, I am a postgraduate student at the University of Liverpool where I am doing
 My modules for the first year as a postgraduate include: *Social Survey Analysis*, *Spatial Analysis*, and *Qualitative Research Methods*. My course is linked with three other universities - University of Manchester, University of Leeds and University of Sheffield. Within each university we will complete one module, and these modules are called: *Programming for Social Sciences* (Leeds), *Analysis of Human Dynamics* (Liverpool), *Understanding Data and its Environment* (Manchester) and *Data Science for Social Science* (Sheffield).
 
 For Leeds module, I have created an Agents Based Model (ABM) which shows agents interacting with neighbours and the environment... to see this click [here](agents.md).
+
+## Contact Information
+
+Email: s.e.teesdale@liverpool.ac.uk
+LinkedIn: https://www.linkedin.com/in/sianteesdale/
