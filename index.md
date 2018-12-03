@@ -14,6 +14,7 @@ My A-Level choices resulted in me becoming a student at the [University of Liver
 - Collecting data and analysis in field;
 - GIS;
 - and many more
+
 My degree led me to conduct fieldwork in Trawsfynydd and Grasmere in the UK, before conducting fieldwork further afield in Santa Cruz, California.
 
 For more information about my third year dissertation project ("Assessing the Onshore Wind Energy Potential for North-West England"), go to my [dissertation page](dissertation.md).
