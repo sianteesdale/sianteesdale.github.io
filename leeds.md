@@ -3,15 +3,14 @@
 For the first assignment from the Leeds University module *Programming for Social Scientists: Core Skills*, I had to create an Agent-Based Model (ABM).
 The ABM simulates the randomised movement of sheep eating grass in the field, with the grass being the environment.
 
-<p align="center">
-  <img width="500" height="500" src="Figure_1-3.png">
-</p>
-
-
 Within the ABM, the following variables can be altered as required:
 - num_of_iterations (the number of times the animation loops)
 - num_of_agents     (the number of sheep)
 - neighbourhood     (how close the agents can be together)
+
+<p align="center">
+  <img width="800" height="800" src="Figure_1-3.png">
+</p>
 
 The ABM displays a number next to each agent; this number represents the agents current store of food (i.e. grass). 
 The agents share their food storage when within a certain distance away (defined by **neighbourhood** value). 
