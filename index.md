@@ -1,25 +1,22 @@
-## About me
-
-Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool! 😊
-
 <p align="center">
   <img width="200" height="200" src="Photo_of_me.jpg">
 </p>
 
+Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool.
+
 ## Education
 
-For my high school education I went to **Greenbank High School** (2008-2013) where I achieved A and B grades across 10 GCSEs.
-
-For further education I studied at [King George V College](https://www.kgv.ac.uk/), Southport. For my A-Levels I achieved:
+For further education I studied at [King George V College](https://www.kgv.ac.uk/) where I achieved A-Levels in:
 1. Biology - B
 2. Geography - A*
 3. Psychology - C
 
 My A-Level choices resulted in me becoming a student at the [University of Liverpool](https://www.liverpool.ac.uk/) studying [BSc Geography](https://www.liverpool.ac.uk/study/undergraduate/courses/geography-bsc-hons/overview/). Over the next 3 years I built up my skills in:
-- Written and verbal communication
-- Laboratory work
-- Collecting data and analysis in field
-- GIS
+- Written and verbal communication;
+- Laboratory work;
+- Collecting data and analysis in field;
+- GIS;
+- and many more!
 
 For more information about my third year dissertation project ("Assessing the Onshore Wind Energy Potential for North-West England"), go to my [dissertation page](dissertation.md).
 
