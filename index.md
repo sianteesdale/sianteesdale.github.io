@@ -3,7 +3,7 @@
 Hi I'm Sian and I'm currently studying for my integrated Master's/PhD at the University of Liverpool! 😊
 
 <p align="center">
-  <img width="200" height="200" src="Github pic.jpg">
+  <img width="200" height="200" src="Photo_of_me.jpg">
 </p>
 
 ## Education
