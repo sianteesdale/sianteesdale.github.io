@@ -1,6 +1,12 @@
 ## Assignment 1: Agent-Based Model
 
 For the first assignment from the Leeds University module *Programming for Social Scientists: Core Skills*, I had to create an Agent-Based Model (ABM).
+
+
+# What is an Agent-Based Model?
+ABMs are generally iterative models. They run by allowing the agents to do their thing for a time step repeatedly (for example, representing someone doing a day's activities) until some number of time steps (iterations) have run, or some stopping condition has been reached. System-level patterns emerge from the complex interactions of the multiple, relatively simple, behaviours of the agents in the model.
+
+# My Model
 The ABM simulates the randomised movement of sheep eating grass in the field, with the grass being the environment.
 
 Within the ABM, the following variables can be altered as required:
