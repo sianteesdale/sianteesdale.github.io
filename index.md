@@ -25,7 +25,7 @@ The grades I received over second and third year resulted in me achieving a **Fi
 
 My modules for the first year as a postgraduate include: *Social Survey Analysis*, *Spatial Analysis*, and *Qualitative Research Methods*. My course is linked with three other universities - University of Manchester, University of Leeds and University of Sheffield. Within each university we will complete one module, and these modules are called: *Programming for Social Sciences* (Leeds), *Analysis of Human Dynamics* (Liverpool), *Understanding Data and its Environment* (Manchester) and *Data Science for Social Science* (Sheffield). I will also do an internship at one of my sponsors during Semester Two.
 
-For the Leeds module, I have created an Agents Based Model (ABM) which shows agents interacting with neighbours and the environment... to see this click [here](agents.md).
+For the Leeds module, I have created an Agents Based Model (ABM) which shows agents interacting with neighbours and the environment... to see this click [here](leeds.md).
 
 ## Contact Information
 
