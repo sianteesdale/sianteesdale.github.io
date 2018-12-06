@@ -26,3 +26,5 @@ The ABM is designed to continue until a stopping condition is met. This conditio
 The quickest way to test this is to set the *num_of_iterations* to a large number (e.g. 1000) and wait for the environment to turn a dark blue. The agents will stop moving and *Stopping condition* will be seen in the IPython console.
 
 To view the coding, click [here](https://github.com/sianteesdale/ABM-Assignment-1) to see the relevant repository. 
+
+[Homepage](index.md)
