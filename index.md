@@ -28,7 +28,12 @@ My modules for the first year as a postgraduate include: *Social Survey Analysis
 For the Leeds module, I have created an Agents Based Model (ABM) which shows agents interacting with neighbours and the environment... to see this click [here](leeds.md).
 
 ## Contact Information
+Office 506, Roxby Building, University of Liverpool
+
+74 Bedford St S, Liverpool, L69 7ZT
+
+----------------------------------------------------------------------------------------------------------
 
 Email: s.e.teesdale@liverpool.ac.uk
 
-LinkedIn: https://www.linkedin.com/in/sianteesdale/
+LinkedIn: [https://www.linkedin.com/in/sianteesdale/](https://www.linkedin.com/in/sianteesdale/)
